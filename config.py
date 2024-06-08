@@ -2,8 +2,7 @@
 
 import os
 
-from dotenv import load_dotenv
-load_dotenv()
+
 
 
 # Mandatory variables for the bot to start
