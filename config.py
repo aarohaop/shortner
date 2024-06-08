@@ -1,7 +1,7 @@
 # Don't Edit
 
 import os
-from dotenv import load_dotenv
+from config import load_config
 
 # Mandatory variables for the bot to start
 API_ID = int(os.getenv("API_ID", "21159773"))
