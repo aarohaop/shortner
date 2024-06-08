@@ -2,9 +2,6 @@
 
 import os
 
-
-
-
 # Mandatory variables for the bot to start
 API_ID = int(os.getenv("API_ID", "21159773"))
 API_HASH = os.environ.get("API_HASH", "49ae08543a07335e195756eba2f56e11")
